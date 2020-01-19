@@ -1,6 +1,6 @@
 # itmo_labs_2
 
-[blogger_task / задание](https://kodaktor.ru/blogger_task) - [Код](https://github.com/EkaterinaEliseeva/blog), Heroku](http://blogpost-api.herokuapp.com)
+[blogger_task / задание](https://kodaktor.ru/blogger_task) - [Код](https://github.com/EkaterinaEliseeva/blog), [Heroku](http://blogpost-api.herokuapp.com)
 _________________________________________________
 [Создание бота на Node.js  / задание](https://kodaktor.ru/g/bots) - [Код](https://github.com/EkaterinaEliseeva/node-vk-bot)
 _________________________________________________
