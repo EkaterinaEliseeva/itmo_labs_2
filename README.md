@@ -1,5 +1,5 @@
 # itmo_labs_2
-## [public_secret / задание](https://kodaktor.ru/g/public09092019) - [Код](https://github.com/EkaterinaEliseeva/## itmo-nodejs/tree/master/secret)
+## [public_secret / задание](https://kodaktor.ru/g/public09092019) - [Код](https://github.com/EkaterinaEliseeva/itmo-nodejs/tree/master/secret)
 _________________________________________________
 ## [Введение в MongoDB / задание](https://kodaktor.ru/g/08112019) - [Код](https://github.com/EkaterinaEliseeva/exp-mongo)
 _________________________________________________
