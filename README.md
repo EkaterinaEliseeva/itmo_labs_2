@@ -5,12 +5,6 @@ _______________________________________________________
 2. ## [Задание / Создание бота на Node.js](https://kodaktor.ru/g/bots) - [Код](https://github.com/EkaterinaEliseeva/node-vk-bot)
 3. ## [Задание / websockets_lab](https://kodaktor.ru/g/websockets_lab) - [Код](https://github.com/elkate/chat)
 4. ## [Задание / Создание скорм-пакета](https://kodaktor.ru/scorm) - [Ссылка](https://elkate.moodlecloud.com/)
-[Ученик
+Ученик | Логин: student_one | Пароль: student_one
 ___________________________
-Логин: student_one
-Пароль: student_one
-
-Учитель
-___________________________
-Логин: my_teacher
-Пароль: my_teacher]
+Учитель | Логин: my_teacher | Пароль: my_teacher
